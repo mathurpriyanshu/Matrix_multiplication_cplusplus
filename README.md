@@ -1,4 +1,4 @@
-## README for Matrix Multiplication Code
+## Matrix Multiplication using C++
 
 ### Overview
 
